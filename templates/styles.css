@@ -1,0 +1,47 @@
+/* Your existing CSS */
+
+/* Add this section for chat bot styling */
+.chatbox {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.chatFrame {
+  display: none;
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 350px;
+  height: 500px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.chatFrame iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#toggleChat {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#toggleChat:hover {
+  background-color: #0056b3;
+}
+
+/* Adjustments for the chatbot icon */
+#toggleChat::after {
+  content: "\1F916"; /* Bot emoji */
+  margin-left: 5px;
+  font-size: 18px;
+}
