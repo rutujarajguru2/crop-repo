@@ -1,4 +1,14 @@
-# Crop Recommendation System Using Machine Learning
+# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Project Title: Crop Recommendation System Using Machine Learning
+
+# project details
+Project Demo URL :
+https://mycropapp-01.azurewebsites.net/
+Demo Video URL :
+https://drive.google.com/file/d/1F8xT02qrc-YOzmuojUzaRX6IicpC8wJT/view?usp=sharing
+Github Repository URL :
+https://github.com/pankajpatil2001/Loan_application_predictionpp
+Industry : Finance Technology
 # Description
 The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops based on various environmental and soil conditions. It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, optimizing yields, and maximizing profitability.
 
