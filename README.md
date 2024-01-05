@@ -15,7 +15,7 @@ Industry : AgriTech Technology
 
 # Azure Services Used
 
-Core Azure Services:
+Core Azure Services :
 
 Azure App Service: Deployed the backend for the crop recommendation system, managing functionalities and data processing.
 
