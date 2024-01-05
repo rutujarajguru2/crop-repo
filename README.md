@@ -6,10 +6,10 @@ Project Demo URL :
 https://mycropapp-01.azurewebsites.net/
 
 Demo Video URL :
-https://drive.google.com/file/d/1BRFCm3w7wg4ZEr-ooj9Pskkn-X-cJTZo/view?usp=sharing
+
 
 Github Repository URL :
-https://github.com/pankajpatil2001/Loan_application_predictionpp
+https://github.com/rutujarajguru2/crop-repo.git
 
 Industry : AgriTech Technology
 
